@@ -22,8 +22,14 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-♉ Instagram : instagram.com/vrxxzyy
-♏ WhatsApp : wa.me/6285335061051
+⛎ Api : api.alphabot.herokuapp.com
+♈ YouTube : youtube.com/c/zeeoneofc
+♉ Github : zeeoneofc.github.io
+♊ Instagram : instagram.com/zeeoneofc
+♋ Tiktok : tiktok.com/@zeeoneofc
+♌ Telegram : t.me/zeeoneofc
+♎ Ch Telegram : t.me/zeeone_ofc
+♏ WhatsApp : bit.ly/zeeone_ofc
 `}
 
 exports.infobot = infobot
